@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="com.mycompany.ass2.chapter2.Program_2_15" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter2/Program_2_15.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="149" x="14" y="19"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.mycompany.ass2.chapter2.Program_2_16" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter2/Program_2_16.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="247" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.mycompany.ass2.chapter2.Program_2_17" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter2/Program_2_17.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="85" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.mycompany.ass2.chapter2.Program_2_18" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter2/Program_2_18.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="83" y="308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.mycompany.ass2.chapter2.Program_2_6" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter2/Program_2_6.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="249" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.mycompany.ass2.chapter2.Program_RQ_2_1" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter2/Program_RQ_2_1.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="153" y="437"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="7" language="java" name="com.mycompany.ass2.chapter3.Program_3_11" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter3/Program_3_11" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="496" y="43"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="8" language="java" name="com.mycompany.ass2.chapter3.Program_3_11.Account" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter3/Program_3_11/Account.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="675" y="188"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.mycompany.ass2.chapter3.Program_3_11.AccountTest" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter3/Program_3_11/AccountTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="454" y="134"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="10" language="java" name="com.mycompany.ass2.chapter4.Program_4_15" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_15" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="447" y="335"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="11" language="java" name="com.mycompany.ass2.chapter4.Program_4_4and4_5" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_4and4_5" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="764" y="338"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="com.mycompany.ass2.chapter4.Programs_4_8" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Programs_4_8" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="974" y="57"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="13" language="java" name="com.mycompany.ass2.chapter4.Program_4_15.Increment" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_15/Increment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="425" y="414"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.mycompany.ass2.chapter4.Program_4_4and4_5.StudentTest" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_4and4_5/StudentTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="100" width="233" x="592" y="371"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="com.mycompany.ass2.chapter4.Program_4_10" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_10" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="973" y="225"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="16" language="java" name="com.mycompany.ass2.chapter4.Program_4_4and4_5.Student" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_4and4_5/Student.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="950" y="472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.mycompany.ass2.chapter4.Programs_4_8.ClassAverage" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Programs_4_8/ClassAverage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="930" y="142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.mycompany.ass2.chapter4.Program_4_20" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_20.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1291" y="98"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.mycompany.ass2.chapter4.Program_4_24" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_24.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1264" y="218"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.mycompany.ass2.chapter4.Program_4_10.ClassAverage" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter4/Program_4_10/ClassAverage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1083" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.mycompany.ass2.chapter5.Program_5_18" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_18.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1494" y="219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.mycompany.ass2.chapter5.Program_5_1.WhileCounter" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_1/WhileCounter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1181" y="475"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.mycompany.ass2.chapter5.Program_5_30.AutoPolicy" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_30/AutoPolicy.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2063" y="213"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.mycompany.ass2.chapter5.Program_5_13.BreakTest" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_13/BreakTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1720" y="141"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.mycompany.ass2.chapter5.Program_5_2.ForCounter" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_2/ForCounter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1715" y="316"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="26" language="java" name="com.mycompany.ass2.chapter5.Program_5_13" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_13" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1762" y="59"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="27" language="java" name="com.mycompany.ass2.chapter5.Program_5_2" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_2" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1759" y="231"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="28" language="java" name="com.mycompany.ass2.chapter5.Program_5_9.LetterGrades" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_9/LetterGrades.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1823" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="29" language="java" name="com.mycompany.ass2.chapter5.Program_5_30" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_30" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2098" y="51"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="30" language="java" name="com.mycompany.ass2.chapter5.Program_5_7.DoWhileTest" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_7/DoWhileTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1487" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="31" language="java" name="com.mycompany.ass2.chapter5.Program_5_1" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_1" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1222" y="395"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="32" language="java" name="com.mycompany.ass2.chapter5.Program_5_7" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_7" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1527" y="396"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="33" language="java" name="com.mycompany.ass2.chapter5.Program_5_30.AutoPolicyTest" 
+    project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_30/AutoPolicyTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2281" y="137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="34" language="java" name="com.mycompany.ass2.chapter5.Program_5_9" project="assignments-2-littlePrograms" 
+    file="/assignments-2-littlePrograms/src/com/mycompany/ass2/chapter5/Program_5_9" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1843" y="402"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
